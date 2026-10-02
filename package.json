@@ -1,0 +1,26 @@
+{
+  "name": "10800-twinkle-mock-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twinklekanjani/10800-Twinkle-mock-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Twinklekanjani/10800-Twinkle-mock-3/issues"
+  },
+  "homepage": "https://github.com/Twinklekanjani/10800-Twinkle-mock-3#readme",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.3"
+  }
+}
